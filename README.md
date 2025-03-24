@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding & cybersecurity
 - 🌱 I’m currently learning ... java and phynton
 - 💞️ I’m looking to collaborate on ... new projects
-- 📫 How to reach me ... @thiago_wayne , cthiagoalberto@gmail.com
+- 📫 How to reach me ... @thiago__kairos , cthiagoalberto@gmail.com
 
 
 <!---
