@@ -41,6 +41,12 @@
 
 ---
 
+## 🚀 Projetos em destaque
+- [Duck Manager](https://github.com/amazonnext/duck-manager) — Projeto no qual atuei como **backend**.  
+- [Calop Agender](https://github.com/amazonext/calop-agender) — Projeto no qual contribuí no desenvolvimento.
+
+---
+
 ## 📊 GitHub Stats
 
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=UgorN&show_icons=true&theme=radical)  
