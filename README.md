@@ -4,6 +4,7 @@
 </picture>
 
 # 👋 Olá, eu sou o Thiago (aka UgorN)
+- 💡 Estudo **tecnologia desde os 14 anos** e sou apaixonado por ela desde então.
 
 💻 **Gestor de TI na Secretaria de Cultura e Turismo de Belém -SEMCULT**  
 📚 Estudante de **Análise e Desenvolvimento de Sistemas**  
@@ -13,8 +14,7 @@
 
 ## 🚀 Sobre mim
 - 👀 Interesse em: Desenvolvimento de sistemas, Python, Java, PHP, Segurança da Informação e Inovação.  
-- 🌱 Atualmente aprendendo: **Java, Python (FastAPI, Django) e Cloud/IoT/Indústria 4.0**.  
-- 💡 Estudo **tecnologia desde os 14 anos** e sou apaixonado por ela desde então.  
+- 🌱 Atualmente aprendendo: **Java, Python (FastAPI, Django) e Cloud/IoT/Indústria 4.0**.    
 - 🎮 Fã de **arte, games e Resident Evil** 🧟‍♂️.  
 - 🏋️‍♂️ Fora do código, pratico musculação e gosto de me desafiar constantemente.
 
