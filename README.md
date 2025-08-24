@@ -1,4 +1,7 @@
-![Banner](assets/banner.svg)
+<picture>
+  <source srcset="assets/banner.svg" type="image/svg+xml">
+  <img src="assets/banner.png" alt="Banner - Thiago UgorN - SEMCULT" width="100%">
+</picture>
 
 # 👋 Olá, eu sou o Thiago (aka UgorN)
 
@@ -40,7 +43,7 @@
 
 ## 📊 GitHub Stats
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=UgorN&show_icons=true&theme=radical)
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=UgorN&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UgorN&layout=compact&theme=radical)
 
 ---
